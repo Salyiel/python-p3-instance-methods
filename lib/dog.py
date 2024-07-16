@@ -8,3 +8,5 @@ class Dog:
         print("The dog is sitting.")
 
     pass
+
+
